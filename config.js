@@ -10,17 +10,17 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6289627784966']
+global.owner = ['6285290646632']
 global.pengguna = 'botz vanya'
 global.premium = []
 global.author = 'botz vanya'
-global.pemilik = ['6289627784966'] 
-global.ownernomer = '6289627784966'
+global.pemilik = ['6285290646632'] 
+global.ownernomer = '6285290646632'
 global.ownername = 'botz vanya'
 global.botname = 'botz vanya'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6289627784966'
+global.meki = '6285290646632'
 global.footer = 'vanya botz'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'vanya' //Ubah nama kalian buat nambahin di tqtq bot
@@ -31,12 +31,12 @@ global.ig = 'https://instagram.com/iamkizakixd'
 global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
 global.dana = '00000'
 global.gopay = '0000'
-global.wame = 'wa.me/6289627784966'
+global.wame = 'wa.me/6285290646632'
 global.email = 'helloiamkizakixd@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
 global.sc = 'https://bit.ly/SubscribeFLOB'
-global.packname = '"{\nAuthor: alyaa botz"\n"Bot Number: 6285848376737"\n"Bot Name: botz vanya"\n"Instagram: @iamkizakixd"\n}' 
+global.packname = '"{\nAuthor: vanya"\n"Bot Number: 6285848376737"\n"Bot Name: botz vanya"\n"Instagram: @iamkizakixd"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
